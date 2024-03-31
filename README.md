@@ -1,6 +1,11 @@
 # Public-Listing
 Repo &amp; README that lists out Project repos that cannot be made public. Can be shown to recruiters upon request.
 
+<h2> AI/Machine Learning Projects </h2>
+
+Contains: Pacman AI built using reinforcment learning techniques as well as planning agents, hand-crafted perceptron linear classifier, handcrafted mini-batch SGD using logistic loss, Movie Review Positivity Detector w/ Bag of Words
+  
+Reasoning: code must be kept private to prevent cheating in AI/Machine Learning and related courses
 
 <h2> Low Level CPU simulation (in Python3 with PyRTL library and some assembly) </h2>
 
