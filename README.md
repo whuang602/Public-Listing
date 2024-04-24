@@ -19,6 +19,18 @@ Contains: backend code for connecting to Oracle DB, basic terminal "frontend" co
 
 Reasoning: code must be kept private to prevent cheating in database and related courses
 
+<h2> CFlat Compiler </h2>
+
+Contains: a hand rolled compiler written completely in C++ for a custom Rust-like language
+
+Reasoning: code must be kept private to prevent cheating in compiler and related courses
+
+<h2> NACHOS Reimplementation </h2>
+
+Contains: manual reimplementation of OS functionalities, eg. shell, read & write lock, and threading
+
+Reasoning: code must be kept private to prevent cheating in OS and related courses
+
 <h2> Custom Compiler and Interpreter </h2>
 
 Contains: a basic compiler built using C++ & LLVM, and a basic work-in-progress interpreter being built in Java
