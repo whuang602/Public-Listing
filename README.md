@@ -39,8 +39,8 @@ Reasoning: They are shy. Also work in progress.
 
 <h2> Discord Bot, codename Qutey (in Python3) </h2>
 
-Contains: a self-contained bot that checks for any mentions of US states in discord chats and prints out its corresponding state bird
+Contains: a self-contained bot that can run python code in discord servers, i.e. it runs code an user types in server chat.
 
-Reasoning: It got bothersome really fast so I would rather not see its reawakening by whoever stumbles upon its code.
+Reasoning: It's a fun project but there are potentially A LOT of security vulnerabilities.
 
 
